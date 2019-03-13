@@ -1,6 +1,6 @@
 {
   "name": "module-main",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "1",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cross-env": "^5.2.0",
-    "module-sub": "^1.0.0"
+    "module-sub": "^3.1.0"
   }
 }
