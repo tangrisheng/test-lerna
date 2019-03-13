@@ -1,7 +1,7 @@
 {
-  "name": "module1",
-  "version": "2.0.0",
-  "description": "module1",
+  "name": "module-main",
+  "version": "1.0.0",
+  "description": "1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
